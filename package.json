@@ -1,5 +1,6 @@
 {
   "name": "tokr",
+  "type": "module",
   "version": "1.0.0",
   "description": "API for tokenizing text",
   "main": "dist/server.js",
